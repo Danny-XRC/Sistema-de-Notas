@@ -1,0 +1,11 @@
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\bin\Debug\CalificacionesEstudiantes.exe.config
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\bin\Debug\CalificacionesEstudiantes.exe
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\bin\Debug\CalificacionesEstudiantes.pdb
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\obj\Debug\CalificacionesEstudiantes.csprojAssemblyReference.cache
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\obj\Debug\CalificacionesEstudiantes.Form1.resources
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\obj\Debug\CalificacionesEstudiantes.Properties.Resources.resources
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\obj\Debug\CalificacionesEstudiantes.csproj.GenerateResource.cache
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\obj\Debug\CalificacionesEstudiantes.csproj.CoreCompileInputs.cache
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\obj\Debug\CalificacionesEstudiantes.exe
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\obj\Debug\CalificacionesEstudiantes.pdb
+E:\2020-01\Taller de Investigacion\CalificacionesEstudiantes\CalificacionesEstudiantes\obj\Debug\CalificacionesEstudiantes.Form2.resources
